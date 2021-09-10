@@ -1,5 +1,5 @@
 # My Git Todo
 
 - Clean the kitchen
-- Do the laundry
+- Go grocery shopping
 - Cook dinner
